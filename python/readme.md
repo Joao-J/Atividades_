@@ -28,7 +28,7 @@ João precisa que você faça um programa que leia a variável peso (peso de pei
   ├── salário bruto.
   ├──  quanto pagou ao INSS.
   ├── quanto pagou ao sindicato.
-  ├── o salário líquido.
+  └── o salário líquido.
 ```
 calcule os descontos e o salário líquido, conforme a tabela abaixo:
 
