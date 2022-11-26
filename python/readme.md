@@ -1,4 +1,5 @@
 # :construction: ATIVIDADES :construction:
+<h3 ><a href="https://wiki.python.org.br/EstruturaSequencial">ESTRUTURA SEQUENCIAL</a></h3>
 
 - [x] Faça um Programa que mostre a mensagem "Alo mundo" na tela. ✔️
 - [x] Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número]. ✔️
