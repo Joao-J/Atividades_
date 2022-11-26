@@ -51,7 +51,8 @@ calcule os descontos e o salário líquido, conforme a tabela abaixo:
 ```
 comprar apenas latas de 18 litros;
 comprar apenas galões de 3,6 litros;
-misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.
+misturar latas e galões, de forma que o desperdício de tinta seja menor. 
+Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.
 
 ```
 
