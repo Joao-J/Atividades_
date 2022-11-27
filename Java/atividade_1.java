@@ -4,7 +4,7 @@ public class atividade {
 	private static Scanner entrada = new Scanner(System.in);
 	
 public static void main(String[] args) {
-	int ano, mes, dia;
+	
 	String num = "";
 	int numero[] = {0,0,0,0};
 	
